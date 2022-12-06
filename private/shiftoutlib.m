@@ -1,4 +1,4 @@
-function shiftout(obj,dataPin, clockPin,bit,val)
+function shiftoutlib(obj,dataPin, clockPin,bit,val)
 %SHIFTOUT シフトレジスタに出力
 %   obj: マイコン
 %   dataPin:  dataPinのピン番号
