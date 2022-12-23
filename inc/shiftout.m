@@ -12,7 +12,5 @@ for i = 1:bit
     writeDigitalPin(obj,clockPin,0);
 end
     writeDigitalPin(obj,dataPin,0);
-
-
 end
 
